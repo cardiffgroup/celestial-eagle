@@ -1,0 +1,7 @@
+# Renders a "Sponsor" button on the GitHub repo.
+ko_fi: stuckdrew    # https://ko-fi.com/stuckdrew
+
+# Other options, if ever wanted (fill a real handle or leave commented):
+# buy_me_a_coffee: YOUR_HANDLE
+# github: [YOUR_GITHUB_USERNAME]   # requires GitHub Sponsors set up
+# custom: ["https://paypal.me/YOUR_HANDLE"]
